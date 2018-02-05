@@ -1,0 +1,5 @@
+login
+a
+deleteacct
+12121211221
+logout

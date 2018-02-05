@@ -1,0 +1,8 @@
+login
+a
+createacct
+4545454
+Hello
+deleteacct
+4545454
+logout

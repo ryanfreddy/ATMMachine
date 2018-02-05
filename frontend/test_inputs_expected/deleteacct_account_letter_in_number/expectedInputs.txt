@@ -1,0 +1,5 @@
+login
+a
+deleteacct
+1aks233
+logout

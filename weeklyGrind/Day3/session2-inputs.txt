@@ -1,0 +1,6 @@
+login
+m
+createacct
+1023424
+Thomas
+logout

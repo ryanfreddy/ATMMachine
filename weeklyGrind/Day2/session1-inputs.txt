@@ -1,0 +1,6 @@
+login
+m
+deposit
+1023424
+100
+logout

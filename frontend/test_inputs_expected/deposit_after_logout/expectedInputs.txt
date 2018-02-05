@@ -1,0 +1,6 @@
+login
+m
+logout
+deposit
+1111111
+5555

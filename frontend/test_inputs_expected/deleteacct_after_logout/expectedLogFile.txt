@@ -1,0 +1,3 @@
+machineModeSelected
+loginSuccess
+logoutSuccess

@@ -1,0 +1,6 @@
+login
+m
+createacct
+0112222
+Hello
+logout

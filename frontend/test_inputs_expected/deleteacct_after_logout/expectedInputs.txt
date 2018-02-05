@@ -1,0 +1,5 @@
+login
+m
+logout
+deleteacct
+1111111

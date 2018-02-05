@@ -1,0 +1,4 @@
+agentModeSelected
+loginSuccess
+deleteAccountFail
+logoutSuccess

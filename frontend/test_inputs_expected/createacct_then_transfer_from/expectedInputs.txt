@@ -1,0 +1,10 @@
+login
+a
+createacct
+4545454
+Hello
+transfer
+5555555
+4545454
+5555
+logout

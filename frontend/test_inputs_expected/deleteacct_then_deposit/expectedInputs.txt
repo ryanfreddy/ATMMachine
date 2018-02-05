@@ -1,0 +1,5 @@
+login
+a
+logout
+deleteacct
+4444444

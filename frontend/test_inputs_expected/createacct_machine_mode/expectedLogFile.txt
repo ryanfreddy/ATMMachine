@@ -1,0 +1,4 @@
+machineModeSelected
+loginSuccess
+createAccountSuccess
+logoutSuccess

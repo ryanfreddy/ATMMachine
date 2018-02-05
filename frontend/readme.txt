@@ -1,0 +1,12 @@
+///////////////////////////////////////////////////////////////////////////////
+///////////////////////////////// README //////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////
+
+This project is created by Josh Daiter, Thomas Cartotto and Ryan Fredrickson
+for CMPE 327
+
+Run the command 'python3 main.py validaccounts.txt transactionsummary.txt'
+to start the program.
+
+To test the frontend, type the command 'test' and then hit enter.
+The results to the test should be located in the testResults.txt

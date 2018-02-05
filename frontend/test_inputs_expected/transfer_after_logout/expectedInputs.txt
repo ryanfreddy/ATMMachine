@@ -1,0 +1,7 @@
+login
+m
+logout
+transfer
+1111111
+5555555
+5555

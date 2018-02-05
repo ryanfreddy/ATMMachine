@@ -1,0 +1,6 @@
+login
+m
+logout
+withdraw
+1111111
+5555
